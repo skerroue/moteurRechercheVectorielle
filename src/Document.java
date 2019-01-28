@@ -1,4 +1,3 @@
-package searchEngine;
 
 import java.io.Serializable;
 import java.util.Date;

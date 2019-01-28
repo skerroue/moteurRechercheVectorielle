@@ -1,4 +1,3 @@
-package searchEngine;
 
 import java.io.*;
 import java.util.TreeMap;
