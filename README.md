@@ -1,3 +1,5 @@
-# [SCHOOL PROJECT] Vector search engine
+# Vector search engine
 
-- Adding webhook to discord and testing commit
+- **Project type :** `School Project`
+- **Description :** Search engine that use the frequency of words to search documents
+- **Language(s) :** Java
